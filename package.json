@@ -8,7 +8,9 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "obayomi-react-module": "1.0.7",
+    "react-internet-status": "1.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
