@@ -10,7 +10,7 @@
     "react-scripts": "2.1.8",
     "uuid": "^3.3.2",
     "obayomi-react-module": "1.0.7",
-    "react-internet-status": "1.0.3"
+    "react-internet-status": "1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",

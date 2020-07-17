@@ -7304,7 +7304,7 @@ prompts@^0.1.9:
     kleur "^2.0.1"
     sisteransi "^0.1.1"
 
-prop-types@^15.6.0:
+prop-types@^15.6.0, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -7522,10 +7522,12 @@ react-event-listener@^0.6.2:
     prop-types "^15.6.0"
     warning "^4.0.1"
 
-react-internet-status@1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/react-internet-status/-/react-internet-status-1.0.3.tgz#dbbf30de0388bc25dadaaa8270c2311a5016f61e"
-  integrity sha512-hJtetDx7ab3AwFrpdlUrbAojVwPrX4koG5N1ToD66JDppHTnu6CQV/1k3KfbCnWF7lp+tAxNmHhE/0x3PWxwGA==
+react-internet-status@1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-internet-status/-/react-internet-status-1.0.4.tgz#8fce2f6836af7c210443ce45afa2ad9ee925e71a"
+  integrity sha512-8OVUTqr5cLgr3SL/pYyh3RizdYrJD5K/E/kc8eGtF5ehb0vQBmssjD8OdlRwFU9m5ag3TJxtrZ/FAXfoJu5HHw==
+  dependencies:
+    prop-types "^15.7.2"
 
 react-is@^16.6.3, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
